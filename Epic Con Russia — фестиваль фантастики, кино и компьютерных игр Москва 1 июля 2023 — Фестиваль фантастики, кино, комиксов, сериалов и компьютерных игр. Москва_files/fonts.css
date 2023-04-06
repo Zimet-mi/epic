@@ -1,0 +1,8 @@
+@font-face { 
+	font-family: 'Bender-Bold';
+	src: url('../fonts/bender-bold.eot');
+	src: url('../fonts/bender-bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/bender-bold.woff2') format('woff2'),
+       url('../fonts/bender-bold.woff') format('woff'),
+       url('../fonts/bender-bold.ttf') format('truetype');
+}
